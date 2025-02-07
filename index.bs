@@ -1,0 +1,19 @@
+<pre class='metadata'>
+Title: Solid - ActivityPub interoperability
+Boilerplate: issues-index no
+Shortname: solid-activitypub-interop
+ED: https://solid.github.io/activitypub-interop/
+Level: 1
+Status: CG-DRAFT
+Group: solidcg
+!Modified: [DATE]
+Repository: https://github.com/solid/activitypub-interop
+Inline Github Issues: title
+Markup Shorthands: markdown yes
+Max ToC Depth: 2
+Editor: Sébastien Rosset
+Editor: elf Pavlik, https://elf-pavlik.hackers4peace.net
+Metadata Order: This version, Latest published version, Test Suite, Created, Modified, *, !*
+Abstract:
+  This report will describe interoperability between Solid and ActivityPub
+</pre>

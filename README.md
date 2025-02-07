@@ -1,1 +1,1 @@
-# ActivityPub interop
+# Solid - ActivityPub interoperability
